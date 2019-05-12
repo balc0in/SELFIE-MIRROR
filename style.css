@@ -1,0 +1,105 @@
+body{
+    width: 100%;
+    padding:0;
+    margin:0;
+    font-family: 'Roboto Mono', monospace, Arial, Helvetica, sans-serif;
+}
+.header{
+    background-color: #140a0a;
+
+
+}
+
+.logo
+{
+    background-image: url(../img/photo-1453000109878-d4619d01587c\ \(1\).jpg) ;
+    background-size: cover;
+    padding-top:5px;
+    height: 300px;
+
+
+display: flexbox;
+
+}
+h1 h2{
+    
+    text-transform: uppercase;
+    font-size:36px;
+    padding: 20px 0;
+
+}
+
+h5{
+    font-size:24px;
+    padding:15px 0;
+}
+p{
+    letter-spacing: 1.1px;
+    word-break: 1.5px;
+    padding-top:10px;
+    padding-bottom:10px; 
+}
+
+.row{
+    width: 70%;
+    margin:auto;
+    padding:10px;
+}
+table{
+   
+    margin:auto;
+    padding-top:30px;
+    
+
+}
+.tabela{
+    width:100%;
+    background-image: url(../img/sarandy-westfall-742145-unsplash.jpg);
+    background-size: cover;
+    
+    margin:0;
+    
+}
+
+
+
+tr{
+   
+    
+    font-size:16px;
+   
+    
+}
+.row-tabela{
+    width: 70%;
+    margin:auto;
+    padding:10px 10px 30px 10px;
+    background-color: rgba(255,255,255,.7);
+
+}
+td{
+    border-top: 1px dashed #FD9F9F;
+    padding: 15px;
+    letter-spacing: 1.5px;
+}
+.kontakt{
+    width:100%;
+    height: 300px;
+    
+
+}
+
+.footer{
+    width: 100%;
+    
+    background-color: black;
+    height: 200px;
+    margin:0;
+}
+.row-kontakt{
+    width: 32%;
+   
+    display:inline-flex;
+    
+    
+}
